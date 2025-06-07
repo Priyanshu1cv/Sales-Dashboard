@@ -91,4 +91,11 @@ car-sales-analysis/
 ## 📁 Output Images
 
 ![Image](https://github.com/user-attachments/assets/6ca6e0f4-7e32-41d0-b1ae-b45e54eeb3c9)
+![Image](https://github.com/user-attachments/assets/d547b697-7aac-4aa3-976d-ef24d6d965cb)
+![Image](https://github.com/user-attachments/assets/995cec3f-7684-4df6-9fda-57db30ca7329)
+![Image](https://github.com/user-attachments/assets/ac45b910-db6c-41bb-aa3d-160edc7b16bd)
+![Image](https://github.com/user-attachments/assets/8988108c-7090-4709-8d61-b277f4952f97)
+![Image](https://github.com/user-attachments/assets/a000164d-e14a-4ce4-822d-432ce9a0980f)
+![Image](https://github.com/user-attachments/assets/cb5668e1-e759-4b3e-9665-945490406c36)
+![Image](https://github.com/user-attachments/assets/242ad062-ee02-48dd-9358-6a41e271dc62)
 
