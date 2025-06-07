@@ -90,4 +90,5 @@ car-sales-analysis/
 
 ## 📁 Output Images
 
+![Image](https://github.com/user-attachments/assets/6ca6e0f4-7e32-41d0-b1ae-b45e54eeb3c9)
 
