@@ -90,11 +90,11 @@ car-sales-analysis/
 
 ## 📁 Output Images
 
-![Image](https://github.com/user-attachments/assets/6ca6e0f4-7e32-41d0-b1ae-b45e54eeb3c9)
-![Image](https://github.com/user-attachments/assets/d547b697-7aac-4aa3-976d-ef24d6d965cb)
-![Image](https://github.com/user-attachments/assets/995cec3f-7684-4df6-9fda-57db30ca7329)
-![Image](https://github.com/user-attachments/assets/ac45b910-db6c-41bb-aa3d-160edc7b16bd)
-![Image](https://github.com/user-attachments/assets/8988108c-7090-4709-8d61-b277f4952f97)
-![Image](https://github.com/user-attachments/assets/a000164d-e14a-4ce4-822d-432ce9a0980f)
-![Image](https://github.com/user-attachments/assets/cb5668e1-e759-4b3e-9665-945490406c36)
-![Image](https://github.com/user-attachments/assets/242ad062-ee02-48dd-9358-6a41e271dc62)
+![Image](https://github.com/user-attachments/assets/b263815e-da01-48ef-95b9-8ef8c36de9d3)
+![Image](https://github.com/user-attachments/assets/47ca1917-0667-4582-aed3-b7e0498d4308)
+![Image](https://github.com/user-attachments/assets/97359040-41db-44d0-bc1c-71772ed21fd9)
+![Image](https://github.com/user-attachments/assets/b1892b35-d103-4b27-bd27-a028529c5107)
+![Image](https://github.com/user-attachments/assets/fa1c806b-6590-42ad-bc81-2b1843a91617)
+![Image](https://github.com/user-attachments/assets/e7982ce2-603f-4943-870d-f987c2109c18)
+![Image](https://github.com/user-attachments/assets/4c71bcbf-5b6a-49e0-acd8-70f5f932f4a2)
+![Image](https://github.com/user-attachments/assets/ae2605b9-3e92-4686-bd63-39de6532c334)
